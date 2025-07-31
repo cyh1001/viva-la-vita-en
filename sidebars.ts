@@ -104,7 +104,14 @@ const sidebars: SidebarsConfig = {
       label: 'Prostate',
       items: [
         'prostate',
-        'prostate/anal',
+        {
+          type: 'category',
+          label: 'Anal',
+          items: [
+            'prostate/anal',
+            'prostate/anal/step',
+          ],
+        },
         'prostate/anal-development',
         'prostate/aneros-overview',
         'prostate/appendix',

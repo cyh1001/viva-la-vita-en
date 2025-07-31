@@ -1,0 +1,118 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #bd5057;
+  --ifm-color-primary-dark: #bd5057;
+  --ifm-color-primary-darker: #bd5057;
+  --ifm-color-primary-darkest: #bd5057;
+  --ifm-color-primary-light: #bd5057;
+  --ifm-color-primary-lighter: #bd5057;
+  --ifm-color-primary-lightest: #bd5057;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(189, 80, 87, 0.1);
+  
+  /* Knowledge base specific styling with pink theme */
+  --ifm-background-color: #ffffff;
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-footer-background-color: #bd5057;
+  --ifm-toc-border-color: #bd5057;
+  --ifm-contents-border-color: #bd5057;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #bd5057;
+  --ifm-color-primary-dark: #bd5057;
+  --ifm-color-primary-darker: #bd5057;
+  --ifm-color-primary-darkest: #bd5057;
+  --ifm-color-primary-light: #bd5057;
+  --ifm-color-primary-lighter: #bd5057;
+  --ifm-color-primary-lightest: #bd5057;
+  --docusaurus-highlighted-code-line-bg: rgba(189, 80, 87, 0.3);
+}
+
+/* Custom homepage styling - pink theme */
+.homepage-hero {
+  background: linear-gradient(135deg, #bd5057 0%, #bd5057 100%);
+  padding: 2rem 0;
+  border-bottom: 1px solid #bd5057;
+}
+
+.homepage-hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.homepage-hero p {
+  font-size: 1.2rem;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+/* Category cards grid layout */
+.category-cards {
+  padding: 4rem 0;
+  background: #ffffff;
+}
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.category-card {
+  background: #bd5057;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 12px;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.category-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(189, 80, 87, 0.3);
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.category-card span {
+  color: white;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .category-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .category-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .category-card {
+    padding: 1.5rem 1rem;
+    font-size: 1.1rem;
+  }
+}

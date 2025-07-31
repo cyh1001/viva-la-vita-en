@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Production build
+build/
+
+# Docusaurus cache and generated files
+.docusaurus/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Claude Code settings
+.claude/settings.local.json

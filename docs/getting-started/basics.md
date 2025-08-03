@@ -104,10 +104,10 @@ Every person's development timeline is different. Factors affecting progression 
 ### Popular Starting Options
 
 **For Beginners Seeking Quick Results:**
-- **[Nipple Development](../specialized/nipple)** - Often the fastest to show results, requires minimal preparation
+- **[Nipple Development](../nipple)** - Often the fastest to show results, requires minimal preparation
 
 **For Those Interested in Intense Experiences:**
-- **[Prostate Development](../advanced/prostate/introduction)** - Produces very intense orgasms but requires more preparation and patience
+- **[Prostate Development](../prostate)** - Produces very intense orgasms but requires more preparation and patience
 
 **For Mental Enhancement Focus:**
 - **[Hypnotic Training](../hypnosis/introduction)** - Emphasizes mental aspects and can complement physical techniques

@@ -1,230 +1,80 @@
 # Nipple Masturbation Preparation
 
-## Physical Preparation
+### Preparation
 
-### Hygiene and Cleanliness
-Proper hygiene creates the foundation for comfortable and enjoyable nipple masturbation:
 
-**Basic Hygiene:**
-- Shower or bathe to ensure overall cleanliness
-- Wash chest and breast area with mild, unscented soap
-- Rinse thoroughly to remove all soap residue
-- Dry gently with a clean, soft towel
-- Ensure hands are completely clean before touching nipples
 
-**Nipple-Specific Care:**
-- Gently clean around nipples and areola
-- Remove any lint, fabric particles, or debris
-- Check for any cuts, irritation, or unusual changes
-- Apply light moisturizer if skin appears dry (avoid nipple itself)
-- Ensure bra or clothing hasn't caused irritation
+It is crucial to meet the following conditions to ensure a good experience. If these conditions are not met, the pleasure from nipple masturbation will be significantly reduced, and you will be wasting valuable "nipple energy." It's best to choose another day.
 
-### Physical Environment Setup
+------
 
-**Comfort Arrangements:**
-- Choose a private space where you won't be interrupted
-- Adjust room temperature for comfort during extended sessions
-- Prepare soft lighting that's relaxing but allows visibility
-- Position mirrors if desired for visual feedback
-- Have tissues or soft cloths easily accessible
 
-**Positioning and Support:**
-- Use comfortable seating or lying position
-- Support your back and arms to prevent fatigue
-- Position pillows for optimal chest access
-- Ensure you can reach both nipples comfortably
-- Consider elevation of chest area for easier access
 
-### Essential Supplies
+### Necessary Conditions
 
-**Basic Materials:**
-- Clean, soft towels for comfort and cleanup
-- Unscented, body-safe lubricant if desired
-- Tissues for any sensitivity or cleanup needs
-- Water nearby for hydration during longer sessions
-- Timer to track session length if helpful
 
-**Optional Enhancement Items:**
-- Soft fabrics (silk, satin) for varied texture
-- Ice cubes or warm compresses for temperature play
-- Soft brushes or feathers for gentle stimulation
-- Mirror for visual exploration and feedback
-- Comfortable cushions or positioning aids
 
-## Mental and Emotional Preparation
+- **Rest:** Avoid stimulating your nipples for one to three days to allow their "sexual energy" to recover.
+- **Abstinence:** Avoid normal masturbation for one to three days.
+- **Good Mood:** Avoid days when you're not in the mood for sex. It's best not to do sexual activities when you don't feel like it, as your eroticism may be very low.
+- **No Distractions:** Avoid any factors that may interfere with your session, such as being too hot or too cold, insects, fatigue, illness, or other people at home.
+- **Start at the Right Time:** Although it's fine to do it at night, avoid doing it too late, as sleepiness can reduce pleasure by as much as 50%.
+- **Enough Time:** A relaxed state of mind is very important for sex. It's best to avoid it when you're feeling stressed.
 
-### Setting Intentions and Expectations
+------
 
-**Realistic Goal Setting:**
-- Focus on pleasure and exploration rather than specific outcomes
-- Accept that sensitivity and response will vary between sessions
-- Set intentions for self-discovery and body acceptance
-- Release any pressure to achieve particular results
-- Embrace the journey of nipple sensitivity development
 
-**Mental Attitude Adjustment:**
-- Cultivate curiosity about your body's responses
-- Practice patience with the development process
-- Release any judgment about nipple-focused pleasure
-- Focus on present-moment sensations rather than goals
-- Develop appreciation for your body's capacity for pleasure
 
-### Relaxation and Stress Reduction
+### Optional Conditions
 
-**Pre-Session Relaxation:**
-- Take 5-10 minutes for deep breathing exercises
-- Practice progressive muscle relaxation starting from toes
-- Use meditation or mindfulness to center yourself
-- Take a warm bath or shower to relax muscles
-- Listen to calming music or nature sounds
 
-**Stress Management:**
-- Clear your schedule to avoid time pressure
-- Turn off phones and eliminate potential distractions
-- Address any specific worries or anxieties beforehand
-- Create positive mental associations with your practice space
-- Use affirmations or positive self-talk to build confidence
 
-### Building Body Awareness
+These conditions are not essential, but they will make the experience much more pleasurable.
 
-**Chest and Breast Awareness:**
-- Spend time exploring the entire chest area gently
-- Notice differences in sensitivity across different areas
-- Learn to distinguish between nipple and areola sensations
-- Develop awareness of how touch feels in different breast areas
-- Practice focusing attention on specific sensations
+- **Something to Hold:** It feels very blissful to hold a pillow at the end of the session.
+- **Nighttime:** You can do it during the day, but it's more effective at night.
+- **Deep Breathing:** Doing several to dozens of rounds of diaphragmatic breathing will make the pleasure more intense.
+- **Pee First:** The urge to urinate can block the accumulation of eroticism. Let's take care of our physiological needs first.
 
-**Nipple-Specific Awareness:**
-- Gently explore both nipples to understand current sensitivity
-- Notice differences between left and right nipple responses
-- Learn to recognize arousal signals in nipple area
-- Practice distinguishing between different pressure levels
-- Develop sensitivity to temperature and texture variations
+------
 
-## Timing and Scheduling Considerations
 
-### Optimal Timing Selection
 
-**Daily Timing:**
-- Choose times when you feel naturally relaxed and receptive
-- Consider your energy levels and natural arousal cycles
-- Avoid times when you're stressed, tired, or distracted
-- Allow adequate time without pressure to finish quickly
-- Plan for potential extended sessions as skills develop
+### Before You Begin
 
-**Hormonal Cycle Considerations:**
-- Track how nipple sensitivity varies throughout menstrual cycle
-- Note times when nipples feel naturally more sensitive or responsive
-- Some find certain cycle phases more conducive to nipple pleasure
-- Adjust expectations based on hormonal influences on sensitivity
-- Use cycle awareness to optimize practice timing
 
-### Session Duration Planning
 
-**Beginner Sessions:**
-- Plan 15-30 minutes for complete preparation and practice
-- Allow extra time for setup and mental preparation
-- Don't rush through the preparation steps
-- Build gradually toward longer sessions as comfort develops
-- Include time for post-session relaxation and integration
+1. Take a Relaxing Bath. This allows your parasympathetic nervous system to become dominant, which significantly changes your eroticism. After bathing, do not start right away. Wait a little for your body to cool down, as this increases eroticism.
 
-**Progressive Development:**
-- Gradually extend session length as skills and endurance develop
-- Intermediate practitioners may benefit from 30-45 minute sessions
-- Advanced sessions can extend to 60+ minutes
-- Balance session length with personal comfort and schedule
-- Allow flexibility for natural variation in response and interest
+   (Translator's note: The author probably means a "soaking bath," but a "shower" can also work if you don't have a bathtub.)
 
-## Health and Safety Considerations
+2. **Brush Your Teeth.** This might seem strange, but a clean body can have a positive effect on eroticism. Also, make sure your hair is dry after bathing.
 
-### Physical Health Assessment
+3. **Watch 10 Minutes of Erotic Content.** After your bath, immerse yourself in an erotic anime, manga, audio, or novel for a while. This will condition your brain and make you more receptive to sexual stimulation.
 
-**General Health Factors:**
-- Ensure you're in good general physical health
-- Address any breast health concerns with healthcare providers
-- Maintain regular breast self-examinations
-- Be aware of any medications that might affect sensitivity
-- Stay adequately hydrated for overall health
+4. **Prepare Tissues.** Men should wrap their glans, and women should place tissues near their vaginal opening. Nipple masturbation often secretes a lot of fluid, so placing tissues in your underwear will prevent messes.
 
-**Nipple-Specific Health:**
-- Check for any cuts, irritation, or unusual changes before sessions
-- Be gentle with sensitive nipple tissue
-- Stop immediately if experiencing pain or significant discomfort
-- Monitor for any signs of irritation from extended stimulation
-- Allow rest periods between intensive sessions
+5. **Prepare a Futon.** It's best to do this 30 minutes to an hour before your normal bedtime.
 
-### Emotional Safety and Boundaries
+6. **Dim the Lights.** Bright lights can be distracting and reduce pleasure.
 
-**Personal Boundaries:**
-- Clearly define your comfort levels and limits
-- Give yourself permission to stop at any time
-- Practice saying no to techniques that don't feel right
-- Respect your emotional responses to nipple stimulation
-- Maintain personal agency throughout the exploration process
+7. Prepare to Touch Your Nipples. You can put your hand inside your clothes to touch your chest.
 
-**Emotional Support:**
-- Consider having trusted friends who can provide support if needed
-- Access educational resources about breast and nipple health
-- Know when to seek professional guidance or counseling
-- Maintain balance between nipple development and other life areas
-- Process any intense emotional responses appropriately
+   It's important not to expose your abdomen. If you do, you may find it difficult to concentrate on the pleasure because your mind will be preoccupied with keeping warm. Alternatively, you can wrap a towel around your abdomen if you're naked.
 
-## Sensitivity Assessment and Baseline
+------
 
-### Current Sensitivity Evaluation
 
-**Baseline Assessment:**
-- Gently test current nipple sensitivity with light touch
-- Note differences between left and right nipples
-- Assess response to different pressures and touch types
-- Record initial sensitivity levels for progress tracking
-- Identify any areas of particular sensitivity or numbness
 
-**Response Pattern Recognition:**
-- Notice how your nipples respond to different stimulation types
-- Observe any immediate arousal or pleasure responses
-- Note any areas that feel uncomfortable or overly sensitive
-- Identify preferred touch locations and pressures
-- Record any spontaneous responses or reactions
+### Nipple Masturbation Process
 
-### Setting Development Goals
 
-**Realistic Expectations:**
-- Understand that nipple development takes time and patience
-- Set process-oriented goals rather than outcome-focused ones
-- Focus on increasing awareness and pleasure rather than intensity
-- Allow for natural variation in progress and response
-- Celebrate small improvements and discoveries
 
-**Progress Tracking:**
-- Consider keeping a simple journal of sessions and responses
-- Note what techniques and approaches work best for you
-- Track changes in sensitivity and pleasure over time
-- Record any breakthroughs or significant experiences
-- Adjust goals based on actual development patterns
+I believe this is a good sequence to follow.
 
-## Partner Communication (If Applicable)
+1. **Make Your Nipples Erect.** Try touching your nipples with your middle finger. If they become erect, you can proceed to the next step.
+2. **Start Nipple Masturbation!** Pinch your nipple from top to bottom and twist it. You can continue this until the pleasure starts to decrease. It's very pleasurable. If you can climax, try to have multiple orgasms here! After a few orgasms, you won't get much more pleasure from the nipples alone, so let's move on to the next step.
+3. **Stretch Your Underwear and Gently Stroke through It.** Stretch your underwear over your chest and make sure it's as taut and wrinkle-free as possible. Once ready, use the second masturbation method. Sometimes, this can produce a drunken-like pleasure. This is a distinctly different pleasure from the perineum. This method works best when your brain is filled with eroticism after steps 2 and 3. You can have one to three orgasms. If you can't climax, you can stop when you feel good. If you continue this too much, you will eventually reach a state where "sensation > pleasure," and your lower back will involuntarily tremble. This doesn't sound very good. If you do it too much, you may feel back pain in your daily life. If the stimulation feels much more intense than the pleasure, you won't be able to feel pleasure during a climax, so I believe you should end the session honestly.
+4. **Hold a Pillow or Futon.** In some cases, you may have an intense urge to hold something between steps 3 and 5. If you stop and hold it tightly at that point, you will feel very blissful. It's best to fall asleep while holding a pillow at the end of the session.
 
-### Preparing for Partner Integration
-
-**Solo Practice First:**
-- Develop your own understanding of preferences before sharing
-- Build confidence in your nipple responses and pleasure
-- Learn to communicate your needs and guide touch
-- Understand your boundaries and comfort levels
-- Practice articulating what feels good and what doesn't
-
-**Communication Preparation:**
-- Think about how to explain your nipple development interests
-- Prepare to share educational resources if helpful
-- Consider how to communicate boundaries and preferences
-- Plan how to guide partner touch and stimulation
-- Think about timing for introducing nipple focus to partnered activities
-
-## Conclusion
-
-Thorough preparation significantly enhances the potential for successful and enjoyable nipple masturbation experiences. Taking time to prepare physically, mentally, and emotionally creates optimal conditions for pleasure and development.
-
-Remember that preparation itself is part of the sexual development process. The attention and care you give to creating ideal conditions demonstrates self-respect and commitment to your personal growth.
-
-Approach preparation with the same curiosity and patience you bring to the actual practice. Good preparation sets the foundation for positive experiences and continued development in nipple sensitivity and pleasure.
+That's it. This sequence can lead to a very high level of pleasure without any significant complications.

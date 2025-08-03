@@ -103,6 +103,6 @@ This section covers the use of hypnotic audio materials for education and person
 ## Next Steps
 
 Expand your hypnosis knowledge:
-- [Resources](resources) - Find quality materials and communities
+- [Resources](resource) - Find quality materials and communities
 - [Basic Knowledge](basics) - Review fundamental concepts
 - [Theory](theory) - Understand the science behind hypnosis

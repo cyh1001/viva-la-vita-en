@@ -65,7 +65,6 @@ const config: Config = {
           label: 'Forum',
           position: 'left',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/viva-la-vita',
           label: 'GitHub',
@@ -97,10 +96,6 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
           ],
         },
       ],

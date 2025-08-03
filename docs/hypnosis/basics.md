@@ -17,4 +17,4 @@ In hypnotic masturbation, people are in a relatively stable and calm state, perh
 Continue your hypnosis education:
 - [Theory and Science](theory) - Deeper understanding of mechanisms
 - [Audio Usage](audio-usage) - Working with hypnotic recordings
-- [Resources](resources) - Finding quality materials and guides
+- [Resources](resource) - Finding quality materials and guides

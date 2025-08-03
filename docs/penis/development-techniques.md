@@ -218,8 +218,8 @@ When practicing with a partner:
 This penis development work integrates well with:
 - **[Prostate Development](prostate)**: Enhances full-body orgasmic potential
 - **[Nipple Development](../nipple)**: Creates multiple orgasmic centers
-- **[Hypnotic Training](../../hypnosis/introduction)**: Amplifies mental aspects
-- **[Energy Work](../../general/theory)**: Provides foundational understanding
+- **[Hypnotic Training](../hypnosis)**: Amplifies mental aspects
+- **[Energy Work](../general/theory)**: Provides foundational understanding
 
 ## Next Steps
 

@@ -45,22 +45,22 @@ function KnowledgeCategories() {
         </div>
         
         <div className="category-grid">
-          <Link to="/docs/getting-started/basics" className="category-card">
-            <span>Basics</span>
+          <Link to="/docs/general" className="category-card">
+            <span>General</span>
           </Link>
-          <Link to="/docs/specialized/nipple" className="category-card">
+          <Link to="/docs/nipple" className="category-card">
             <span>Nipple</span>
           </Link>
-          <Link to="/docs/advanced/prostate/introduction" className="category-card">
+          <Link to="/docs/prostate" className="category-card">
             <span>Prostate</span>
           </Link>
-          <Link to="/docs/hypnosis/introduction" className="category-card">
+          <Link to="/docs/hypnosis" className="category-card">
             <span>Hypnosis</span>
           </Link>
-          <Link to="/docs/specialized/penis" className="category-card">
+          <Link to="/docs/penis" className="category-card">
             <span>Penis</span>
           </Link>
-          <Link to="/docs/specialized/squirting" className="category-card">
+          <Link to="/docs/squirting" className="category-card">
             <span>Squirting</span>
           </Link>
         </div>
@@ -69,7 +69,7 @@ function KnowledgeCategories() {
   );
 }
 
-export default function Home(): JSX.Element {
+export default function Home(): React.JSX.Element {
   const {siteConfig} = useDocusarusContext();
   return (
     <Layout

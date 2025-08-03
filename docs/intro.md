@@ -7,11 +7,11 @@ Unless specifically noted otherwise, all content in this knowledge base is publi
 ## Content Categories
 
 - **[General](general/theory)**
-- **[Nipple](specialized/nipple)**
-- **[Prostate](advanced/prostate/introduction)**
-- **[Penis](specialized/penis)**
-- **[Hypnosis](hypnosis/introduction)**
-- **[Squirting](specialized/squirting)**
+- **[Nipple](nipple)**
+- **[Prostate](prostate)**
+- **[Penis](penis)**
+- **[Hypnosis](hypnosis)**
+- **[Squirting](squirting)**
 
 ## External Resources
 

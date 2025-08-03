@@ -12,11 +12,11 @@ This knowledge base covers several specialized areas of sexual development:
 
 ### Core Categories
 - **[General Principles](../general/theory)** - Foundation concepts that apply across all development areas
-- **[Nipple Development](../specialized/nipple)** - Techniques for developing nipple sensitivity and achieving nipple orgasms
-- **[Prostate Development](../advanced/prostate/introduction)** - Comprehensive guide to prostate stimulation and anal development
-- **[Penis Techniques](../specialized/penis)** - Methods for penis-based feminine orgasm development
-- **[Hypnotic Training](../hypnosis/introduction)** - Mental and audio-based enhancement techniques
-- **[Squirting Development](../specialized/squirting)** - Techniques for developing squirting abilities
+- **[Nipple Development](../nipple)** - Techniques for developing nipple sensitivity and achieving nipple orgasms
+- **[Prostate Development](../prostate)** - Comprehensive guide to prostate stimulation and anal development
+- **[Penis Techniques](../penis)** - Methods for penis-based feminine orgasm development
+- **[Hypnotic Training](../hypnosis)** - Mental and audio-based enhancement techniques
+- **[Squirting Development](../squirting)** - Techniques for developing squirting abilities
 
 ## Important Principles
 
